@@ -2,7 +2,7 @@
 
 A Python implementation of the classic **8-Queens Problem** using two local-search techniques: **Hill Climbing** and **Simulated Annealing**. The project explores how different search strategies attempt to arrange eight queens on a chessboard so that no two queens attack each other.
 
-Developed for the **Artificial Intelligence Lab at Al-Quds University**.
+Developed for the **Artificial Intelligence Lab at Al-Quds University** (11th May, 2025).
 
 ## Problem Overview
 
